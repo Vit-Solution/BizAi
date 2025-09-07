@@ -39,12 +39,12 @@ It is available on **Web Chat** (core platform) and **WhatsApp** (extension).
 ---
 
 ## Demo Video
- [Watch Demo (YouTube/Drive Link)](https://youtube.com/xxxx)  
+ [Watch Demo (Google Drive Link)](https://drive.google.com/file/d/1Nj7trzk7RjklM5BcrEYH2XzILJEzwgPa/view?usp=drive_link)  
 
 ---
 
 ## Slide Deck
- [View Presentation (Google Drive Link)](https://drive.google.com/xxxx)  
+ [View Presentation (Google Drive Link)](https://docs.google.com/presentation/d/1AQ5w_IUg_71YJ3FuYILeKZXW_7sXb1N2/edit?usp=drive_link&ouid=117929170314915765574&rtpof=true&sd=true)  
 
 ---
 
