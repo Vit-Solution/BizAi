@@ -1,4 +1,4 @@
-# BizAi – Nigeria’s AI Business Assistant 🇳🇬
+# BizAi – Nigeria’s AI Business Assistant 🇳🇬 - bizai-gamma.vercel.app/
 
 BizAi is an AI-powered chatbot that helps Nigerian entrepreneurs with 
 **business registration, tax, and trade compliance**. 
